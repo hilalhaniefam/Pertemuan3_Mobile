@@ -20,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
         bottomNav();
     }
 
+
     private void bottomNav() {
         //inisialisasi
         BottomNavigationView bottomNavigationView = findViewById(R.id.bottom_navigation);
